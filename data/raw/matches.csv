@@ -1,1 +1,8 @@
+id_partida,ano,fase,data,estadio,mandante,gols_mandante,gols_visitante,visitante,vencedor
+1,2014,Grupo A,12/06/2014,Arena Corinthians,Brasil,3,1,Croacia,Brasil
+2,2014,Final,13/07/2014,Maracana,Alemanha,1,0,Argentina,Alemanha
+3,2018,Grupo C,16/06/2018,Kazan Arena,Franca,2,1,Australia,Franca
+4,2018,Final,15/07/2018,Luzhniki,Franca,4,2,Croacia,Franca
+5,2022,Grupo G,24/11/2022,Lusail Stadium,Brasil,2,0,Servia,Brasil
+6,2022,Final,18/12/2022,Lusail Stadium,Argentina,3,3,Franca,Empate
 
