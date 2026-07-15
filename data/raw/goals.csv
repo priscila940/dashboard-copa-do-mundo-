@@ -1,1 +1,11 @@
+id_gol,id_partida,id_jogador,minuto,tempo_jogo,tipo_gol
+1,1,101,29,1,Penalti
+2,1,101,71,2,Normal
+3,4,103,65,2,Normal
+4,5,101,62,2,Normal
+5,6,102,23,1,Penalti
+6,6,103,80,2,Penalti
+7,6,103,81,2,Normal
+8,6,102,108,Extra,Normal
+9,6,103,118,Extra,Penalti
 
